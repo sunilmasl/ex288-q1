@@ -1,12 +1,12 @@
 {
   "name": "nodejs-helloworld",
   "version": "1.0.0",
-  "description": "Hello World! Welcome to Red Hat OPenshift and Ansible leanrinig
+  "description": "Hello World! Welcome to Red Hat OPenshift and Ansible leanrinig",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Red Hat Training",
+  "author": "Red Hat Training Sunil",
   "license": "ASL",
   "dependencies": {
     "express": "4.14.x"
